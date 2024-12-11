@@ -258,7 +258,10 @@ body {
     display: grid;
     row-gap: 2rem;
   }
+  .gallery_container .images img {
 
+    border-radius: 11px;
+  }
   
   #content_buy{
 
