@@ -225,6 +225,12 @@ body {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
+  .img_coupang_link{
+    width:4rem;
+    position: relative;
+    z-index:10;
+  }
+  
   #myCarousel {
     padding-top:0;
   }
