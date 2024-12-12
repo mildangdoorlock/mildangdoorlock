@@ -32,6 +32,9 @@ body {
   user-select: none;
 }
 
+.mildang_menu{
+  justify-content: center;
+}
 
 .bi {
   vertical-align: -.125em;
@@ -97,28 +100,40 @@ body {
 -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
-.marketing .col-lg-7 {
+.mildang_menu .col-lg-7 {
   margin-bottom: 1.5rem;
   text-align: center;
 }
 
-.marketing .col-lg-5 {
+.mildang_menu .col-lg-5 {
   margin-bottom: 1.5rem;
   text-align: center;
 }
+
 /* Center align the text within the three columns below the carousel */
-.marketing .col-lg-4 {
+.mildang_menu .col-lg-4 {
 
   margin-bottom: 1.5rem;
   text-align: center;
   vertical-align: middle;
 }
 /* rtl:begin:ignore */
-.marketing .col-lg-4 p {
+.mildang_menu .col-lg-4 p {
   margin-right: .75rem;
   margin-left: .75rem;
 }
-/* rtl:end:ignore */
+
+#page_author .col-lg-4{
+  margin-bottom: 1.5rem;
+  text-align: center;
+  vertical-align: middle;
+}
+/* rtl:begin:ignore */
+#page_author .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
 
 
 /* Featurettes
@@ -265,10 +280,8 @@ body {
   }
   
   #content_buy{
-
     height:100vh; 
-
-  align-items: center;
+    align-items: center;
   }
   
 }
