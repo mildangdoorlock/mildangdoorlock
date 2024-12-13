@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.mildang.shop/
-Site: */sitemap.xml 
+Sitemap: https://www.mildang.shop/sitemap.xml 
