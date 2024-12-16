@@ -3,4 +3,11 @@
 
 📫홈페이지 제작 및 문의 : mildangdoorlock@gmail.com
 
+📚라이브러리
+- Bootstrap v5.3.3 <https://getbootstrap.com/>
+- AOS(Animate on scroll library) 2.3.1 <https://github.com/michalsnik/aos>
+
+🖌️폰트
+- pretendard
+
 © 2024 몽태
