@@ -8,6 +8,6 @@
 - AOS(Animate on scroll library) 2.3.1 <https://github.com/michalsnik/aos>
 
 🖌️폰트
-- pretendard
+- pretendard <https://github.com/orioncactus/pretendard>
 
 © 2024 몽태
